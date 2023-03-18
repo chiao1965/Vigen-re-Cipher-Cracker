@@ -8,7 +8,7 @@ To encipher a message, it will choose a word of phrase as the keyword for the me
 
 Following steps are what we do for breaking the Vigenère Cipher.
 1. Split encrypted messages into different nums of groups and calculate index of coincidence (I.C.) to determine the keyword length.
-2. Determine which key value (means shift letters left by 0-26) will result in the minimum chi-squared score for each group.
+2. Determine which key value (means shift letters left by 0-2) will result in the minimum chi-squared score for each group.
 3. Finally, break this ciphertext and recover the plaintext.
 
 
