@@ -1,8 +1,5 @@
 # Vigenère Cipher Cracker
 
-Exercise
-===
-
 Description
 ---
 This problem is related to Vigenère Cipher.
