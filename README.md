@@ -16,9 +16,9 @@ Runnung Environments
 ---
 Suggested running environments: Linux Ubuntu 16.04.12, Python 3.9.12
 
-You can execute 311706007.py by this command:
+You can execute main.py by this command:
 ```
-python 311706007.py -o output_filename.txt
+python main.py -o output_filename.txt
 ```
 Next, you will receive the prompt
 ```
